@@ -1,0 +1,1 @@
+# chat-restriction-bypass
